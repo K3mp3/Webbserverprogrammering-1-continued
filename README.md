@@ -12,7 +12,6 @@ Detta repository innehåller **komplett kursmaterial** för gymnasiekursen Webbs
 - ✅ **5 perioder** med steg-för-steg övningar
 - ✅ **5 prov** (40 minuter vardera)
 - ✅ **1 slutprojekt** (Forum-applikation)
-- ✅ **Facit** till alla prov
 - ✅ Mappat till **svenska betygskriterier** (E/C/A)
 
 ---
