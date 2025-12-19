@@ -412,20 +412,6 @@ PROV 1: Express & MongoDB
 - **Täcker 100%** av betygskriterierna
 
 ---
-
-## 🤝 Bidrag
-
-Detta material är skapat för undervisning i svenska gymnasieskolan. Förslag på förbättringar är välkomna!
-
-**Hur du kan bidra:**
-1. Fork detta repo
-2. Skapa en feature branch (`git checkout -b feature/forbattring`)
-3. Commit dina ändringar (`git commit -m 'Lägg till förbättring'`)
-4. Push till branchen (`git push origin feature/forbattring`)
-5. Öppna en Pull Request
-
----
-
 ## 📞 Support & Frågor
 
 **För lärare:**
@@ -438,23 +424,6 @@ Detta material är skapat för undervisning i svenska gymnasieskolan. Förslag p
 - Använd `console.log()` för debugging
 - Läs felmeddelanden noggrant
 - Kolla dokumentation (Express, Mongoose, MDN)
-
----
-
-## 📄 Licens
-
-**[Lägg till din valda licens här]**
-
-Förslag:
-- **MIT License** - Fritt att använda, modifiera, distribuera
-- **CC BY-SA 4.0** - Attribution + ShareAlike
-- **Endast för utbildning** - Om du vill begränsa till skolor
-
----
-
-## 🙏 Tack
-
-Detta material är skapat med passion för att göra backend-utveckling tillgängligt för gymnasieelever. Stort tack till alla som använder och förbättrar materialet!
 
 ---
 
